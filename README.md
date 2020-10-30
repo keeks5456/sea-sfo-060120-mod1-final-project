@@ -68,8 +68,8 @@ What we would love to see is:
 3. Recreate catching pokemon 
 
 ## Contributors
-- Keeks5456
-- bbtrombone01
+- https://github.com/keeks5456
+- https://github.com/bbtrombone01
 
 
 ## Stretch Goals
